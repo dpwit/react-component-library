@@ -13,3 +13,9 @@ Some of the key features of this utility
 
 * It integrates Jest for testing
 * It supports CSS modules
+
+## Installation
+
+Installing this package is extremely easy if you’re familiar with npm, just type the following:
+
+'code' $nom install -g create-react-library
