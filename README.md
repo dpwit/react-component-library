@@ -16,6 +16,6 @@ Some of the key features of this utility
 
 ## Installation
 
-Installing this package is extremely easy if you’re familiar with npm, just type the following:
+Installing this package is extremely easy if you’re familiar with npm, just type the following in your Terminal:
 
 > `code` $npm install -g create-react-library
