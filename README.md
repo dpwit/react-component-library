@@ -18,13 +18,13 @@ Some of the key features of this utility
 
 Installing this package is extremely easy if you’re familiar with npm, just type the following in your Terminal:
 
-> `code` $ npm install -g create-react-library
+> `$ npm install -g create-react-library` 
 
 ## Using create-react-library
 
 Just like the installation, using this package is very straightforward, all you need is a simple command. Once executed, it’ll ask a few questions and with that information, it’ll create the required template.
 
-> `code` $ create-react-libary
+> `$ create-react-libary` 
 
 That’s all you need because the actual details about the library you’re looking to create will be provided with the following questions:
 
@@ -32,8 +32,12 @@ That’s all you need because the actual details about the library you’re look
 
 Now that new folder, dpw-component-library has been created, you can simply execute the following commands (in different terminals) in order to get the project started:
 
-> `code` [Terminal 1] $ cd dpw-compoment-library && npm start
+> ` [Terminal 1] $ cd dpw-compoment-library && npm start`
 
-> `code` [Terminal 2]$ cd dpw-component-library\example && npm start
+> `[Terminal 2]$ cd dpw-component-library\example && npm start` 
 
 ![Get project started](images/get-project-started.PNG)
+
+And you want the project to get started, because it’ll provide you with a web UI for you to test the components.
+
+Just add your components into the `src` folder in order to; create your library and use the `example` folder to showcase them.
