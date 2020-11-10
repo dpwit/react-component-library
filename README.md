@@ -18,4 +18,4 @@ Some of the key features of this utility
 
 Installing this package is extremely easy if you’re familiar with npm, just type the following:
 
-> $npm install -g create-react-library
+> `code` $npm install -g create-react-library
