@@ -28,4 +28,4 @@ Just like the installation, using this package is very straightforward, all you 
 
 That’s all you need because the actual details about the library you’re looking to create will be provided with the following questions:
 
-![Create react component library questions](images/create-react-library-questions.png)
+![Create react component library questions](images/create-react-library-questions.PNG)
