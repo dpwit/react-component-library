@@ -33,4 +33,5 @@ That’s all you need because the actual details about the library you’re look
 Now that new folder, dpw-component-library has been created, you can simply execute the following commands (in different terminals) in order to get the project started:
 
 > `code` [Terminal 1] $ cd dpw-compoment-library && npm start
+
 > `code` [Terminal 2]$ cd dpw-component-library\example && npm start
