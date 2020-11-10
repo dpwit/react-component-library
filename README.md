@@ -35,3 +35,5 @@ Now that new folder, dpw-component-library has been created, you can simply exec
 > `code` [Terminal 1] $ cd dpw-compoment-library && npm start
 
 > `code` [Terminal 2]$ cd dpw-component-library\example && npm start
+
+![Get project started](images/get-project-started.PNG)
