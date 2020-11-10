@@ -29,3 +29,8 @@ Just like the installation, using this package is very straightforward, all you 
 That’s all you need because the actual details about the library you’re looking to create will be provided with the following questions:
 
 ![Create react component library questions](images/create-react-library-questions.PNG)
+
+Now that new folder, dpw-component-library has been created, you can simply execute the following commands (in different terminals) in order to get the project started:
+
+> `code` [Terminal 1] $ cd dpw-compoment-library && npm start
+> `code` [Terminal 2]$ cd dpw-component-library\example && npm start
